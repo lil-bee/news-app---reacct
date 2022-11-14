@@ -1,3 +1,5 @@
+#### untuk keperluan belajar mandiri
+
 # News Aggregator App - React Introduction
 
 ## Happy coding!
