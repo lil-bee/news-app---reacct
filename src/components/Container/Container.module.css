@@ -1,0 +1,10 @@
+.containe{
+    display: flex;
+    flex-direction: column;
+
+    min-height: calc(100-vh -55px);
+    max-width: 480px;
+    padding: 16px;
+    margin: 0 auto;
+    background-color: var(--main-container-color);
+}
